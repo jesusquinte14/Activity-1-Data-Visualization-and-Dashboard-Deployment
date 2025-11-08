@@ -1,5 +1,7 @@
 # University Student Analytics Dashboard
 
+# Jesus quintero y Ralph Avila
+
 This project is part of **Activity 1 – Data Visualization and Dashboard Deployment**.  
 It demonstrates how to load and explore a university student dataset, create visualizations, and deploy an interactive dashboard using **Streamlit Cloud**.
 

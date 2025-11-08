@@ -19,15 +19,18 @@ The dashboard expects a file named **`university_student_data.csv`** in the same
 This file should contain fields similar to:
 
 - `year`
-- `department`
 - `term` (e.g. Spring, Fall)
 - `applications`
+- `admitted`
 - `enrolled`
 - `retention_rate`
 - `satisfaction_score`
+- `engineering_enrolled`
+- `business_enrolled`
+- `arts_enrolled`
+- `science_enrolled`
 
-Adjust column names in the code if your dataset uses different ones.
-
+  
 ## 3. How to run locally
 
 1. Create and activate a virtual environment (optional but recommended).
